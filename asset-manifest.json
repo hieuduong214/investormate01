@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/investormate01/static/css/main.cdf3ff55.css",
-    "main.js": "/investormate01/static/js/main.032f4c77.js",
+    "main.css": "/investormate01/static/css/main.38c23280.css",
+    "main.js": "/investormate01/static/js/main.8c5c8350.js",
     "static/media/bannervideo.mov": "/investormate01/static/media/bannervideo.2e457e8759580660566b.mov",
     "static/media/Rectangle 17.png": "/investormate01/static/media/Rectangle 17.9b9365c44a2c8ee69785.png",
     "static/media/Headshot-Emmanuel-1 3.png": "/investormate01/static/media/Headshot-Emmanuel-1 3.ef022fd59da526396665.png",
@@ -14,16 +14,21 @@
     "static/media/step4.png": "/investormate01/static/media/step4.ab7a5e420ea5eadcd106.png",
     "static/media/step5.png": "/investormate01/static/media/step5.f664e74d14f8f96af44b.png",
     "static/media/step3.png": "/investormate01/static/media/step3.b68ccdd9efff9d3b3d13.png",
+    "static/media/step2hover.png": "/investormate01/static/media/step2hover.ed1aac4375dacf10f9d0.png",
+    "static/media/step3hover.png": "/investormate01/static/media/step3hover.7fdbedcca128d34ced34.png",
     "static/media/step1.png": "/investormate01/static/media/step1.9807d7eb58f09fe78fcd.png",
+    "static/media/step4hover.png": "/investormate01/static/media/step4hover.5adf46179bd9240d97df.png",
+    "static/media/step5hover.png": "/investormate01/static/media/step5hover.328cb88b8c5245f74b31.png",
+    "static/media/step1hover.png": "/investormate01/static/media/step1hover.842fb488964f64fc654f.png",
     "static/media/Rectangle 26.png": "/investormate01/static/media/Rectangle 26.4dbdd1f227b65d5206f6.png",
     "static/media/Rectangle 27.png": "/investormate01/static/media/Rectangle 27.10e46450aabb22d0c1f0.png",
     "static/media/Rectangle 28.png": "/investormate01/static/media/Rectangle 28.ce8818fad041e21cf960.png",
     "index.html": "/investormate01/index.html",
-    "main.cdf3ff55.css.map": "/investormate01/static/css/main.cdf3ff55.css.map",
-    "main.032f4c77.js.map": "/investormate01/static/js/main.032f4c77.js.map"
+    "main.38c23280.css.map": "/investormate01/static/css/main.38c23280.css.map",
+    "main.8c5c8350.js.map": "/investormate01/static/js/main.8c5c8350.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdf3ff55.css",
-    "static/js/main.032f4c77.js"
+    "static/css/main.38c23280.css",
+    "static/js/main.8c5c8350.js"
   ]
 }
