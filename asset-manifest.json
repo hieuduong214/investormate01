@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/investormate01/static/css/main.38c23280.css",
+    "main.css": "/investormate01/static/css/main.8c1ab31a.css",
     "main.js": "/investormate01/static/js/main.8c5c8350.js",
-    "static/media/bannervideo.mov": "/investormate01/static/media/bannervideo.2e457e8759580660566b.mov",
+    "static/media/bg-header.png": "/investormate01/static/media/bg-header.2443ab497bc0eec675b1.png",
     "static/media/Rectangle 17.png": "/investormate01/static/media/Rectangle 17.9b9365c44a2c8ee69785.png",
     "static/media/Headshot-Emmanuel-1 3.png": "/investormate01/static/media/Headshot-Emmanuel-1 3.ef022fd59da526396665.png",
     "static/media/cs1.png": "/investormate01/static/media/cs1.fee91199ffe55272227c.png",
@@ -24,11 +24,11 @@
     "static/media/Rectangle 27.png": "/investormate01/static/media/Rectangle 27.10e46450aabb22d0c1f0.png",
     "static/media/Rectangle 28.png": "/investormate01/static/media/Rectangle 28.ce8818fad041e21cf960.png",
     "index.html": "/investormate01/index.html",
-    "main.38c23280.css.map": "/investormate01/static/css/main.38c23280.css.map",
+    "main.8c1ab31a.css.map": "/investormate01/static/css/main.8c1ab31a.css.map",
     "main.8c5c8350.js.map": "/investormate01/static/js/main.8c5c8350.js.map"
   },
   "entrypoints": [
-    "static/css/main.38c23280.css",
+    "static/css/main.8c1ab31a.css",
     "static/js/main.8c5c8350.js"
   ]
 }
